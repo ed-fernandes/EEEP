@@ -1,0 +1,2 @@
+epocas, taxaAprendOculIni, taxaAprendOcul, decaimentoOcul, tipoDecaimentoOcul, taxaAprendSaiIni, taxaAprendSai, decaimentoSai, tipoDecaimentoSai, escolha, NeuroniosCamadaOculta, Usu_func, TaxaRejeicao, K-folds, VarianciaTrei, VarianciaTest, MediaErroTrei, MediaErroTest, Taxa_de_acerto_Trei, Taxa_de_acerto_Test, melhorEpoca
+50, 0.5, 0.05023640661938533, 1, 1, 0.3, 0.030141843971631197, 1, 1,5, 25, 1, 0.05, 10, 0.0, 0.0, 0.0014713991216011627, 0.0017245795116340495, 100.0,100.0,49
